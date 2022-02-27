@@ -4,14 +4,13 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aeroschmidt.aeroschmidt)
 
-</p>
+<!---</p>
 <div size='20px'> Hi! My name is Sabrina.
-</div>
+</div>-->
 
 <h2> About Me <img align ='center' src='https://media1.giphy.com/media/oDTStYAUzS6SmwHM2y/giphy.gif?cid=790b7611c320550ad0bf8299c98d7ad65be761764a3b2847&rid=giphy.gif&ct=s' width = '32px'></h2>
 
 <img width="43%" align="right" alt="Github" src="https://github.com/aeroschmidt/aeroschmidt/blob/main/giphy.gif?raw=true" />
-
 
 - 🔭 I’m currently working on My Blog, Github Project, Working as developer
 
@@ -22,6 +21,10 @@
 - 💬 Talk to me about Java, Freelancing Opportunites, Open Source 
 
 <h2> Skills <img src = "https://media1.giphy.com/media/RtnhWRcOVTWg875gn0/giphy.gif?cid=790b7611257585d7c178eccd836e4dafb5b131ee68e37ee0&rid=giphy.gif&ct=s" width = 32px> </h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeroschmidt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="left">
 <a href= https://github.com/aeroschmidt?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/aeroschmidt?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/aeroschmidt?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
@@ -32,7 +35,6 @@
 <a href= https://github.com/aeroschmidt?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/aeroschmidt?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 <a href= https://github.com/aeroschmidt?tab=repositories&q=&type=&language=oracle&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/oracle.svg'> </a>
-
 
 <!---<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
