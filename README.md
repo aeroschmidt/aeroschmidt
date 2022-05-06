@@ -12,7 +12,7 @@
 
 <img width="43%" align="right" alt="Github" src="https://github.com/aeroschmidt/aeroschmidt/blob/main/giphy.gif?raw=true" />
 
-- 🔭 I’m currently working on My Blog, Github Project, Working as developer
+- 🔭 I’m currently working on Github Project and Working as developer
 
 - 🌱 I’m currently learning  
 
