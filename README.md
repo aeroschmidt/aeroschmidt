@@ -1,4 +1,4 @@
-<h1> Hello Fellow! <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h1>
+<h1> Hello Fellow!</h1>
 
 <p align='center'>
 
@@ -8,9 +8,8 @@
 <div size='20px'> Hi! My name is Sabrina.
 </div>-->
 
-<h2> About Me <img align ='center' src='https://media1.giphy.com/media/oDTStYAUzS6SmwHM2y/giphy.gif?cid=790b7611c320550ad0bf8299c98d7ad65be761764a3b2847&rid=giphy.gif&ct=s' width = '32px'></h2>
+<h2> About Me </h2>
 
-<img width="43%" align="right" alt="Github" src="https://github.com/aeroschmidt/aeroschmidt/blob/main/giphy.gif?raw=true" />
 
 - 🔭 I’m currently working on Github Project and Working as developer
 
@@ -20,11 +19,12 @@
 
 - 💬 Talk to me about Java, Freelancing Opportunites, Open Source 
 
-<h2> Skills <img src = "https://media1.giphy.com/media/RtnhWRcOVTWg875gn0/giphy.gif?cid=790b7611257585d7c178eccd836e4dafb5b131ee68e37ee0&rid=giphy.gif&ct=s" width = 32px> </h2>
+<h2> Skills </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeroschmidt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="left">
+<!--<img width="43%" align="right" alt="Github" src="https://github.com/aeroschmidt/aeroschmidt/blob/main/giphy.gif?raw=true" />
+<div align="left">-->
 <a href= https://github.com/aeroschmidt?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/aeroschmidt?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/aeroschmidt?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
