@@ -23,8 +23,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeroschmidt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--<img width="43%" align="right" alt="Github" src="https://github.com/aeroschmidt/aeroschmidt/blob/main/giphy.gif?raw=true" />
-<div align="left">-->
+<!--<img width="43%" align="right" alt="Github" src="https://github.com/aeroschmidt/aeroschmidt/blob/main/giphy.gif?raw=true" />-->
+<div align="left">
 <a href= https://github.com/aeroschmidt?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/aeroschmidt?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/aeroschmidt?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
