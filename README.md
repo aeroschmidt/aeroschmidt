@@ -9,7 +9,6 @@ public class TryCatchAllDev {
             System.out.println("Tentando ser uma dev equilibrada...");
             throw new Exception("A vida não colaborou");
         } catch (Exception e) {
-            System.out.println("⚠️ Falha crítica: café insuficiente.");
             System.out.println("Refatorando o caos. Commitando com medo. Vivendo com ironia.");
         }
     }
